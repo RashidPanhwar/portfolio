@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='max-w-screen-lg p-4 mx-auto flex justify-center items-center w-full h-full'>
             <div className='flex gap-2'>
                 <h3>Email : </h3>
-                <p> <a href='https://mail.google.com'> rashidpanhwer8@gmail.com </a> </p>
+                <p> <a href='https://mail.google.com' target='_blank' rel="noreferrer"> rashidpanhwer8@gmail.com </a> </p>
             </div>
         </div>
     </div>
