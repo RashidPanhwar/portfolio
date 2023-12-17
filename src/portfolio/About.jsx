@@ -10,21 +10,18 @@ const About = () => {
                 </p>
             </div>
             <p className='text-lg mt-20'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eveniet, 
-                earum eius autem illum perspiciatis magni temporibus praesentium blanditiis, 
-                ipsam laborum veritatis sequi. Culpa libero possimus nesciunt vitae sequi 
-                necessitatibus voluptate quaerat veniam fugit maiores asperiores assumenda 
-                nisi illum corporis, similique est magni nobis aliquam corrupti, repudiandae 
-                perspiciatis repellendus ab.
+                As a MERN Stack Developer, I am dedicated to delivering cutting-edge solutions 
+                that align with business objectives and user expectations. My comprehensive skill set, 
+                coupled with a passion for continuous learning, positions me as an asset for any 
+                development team aiming to create impactful and sustainable web applications.
             </p>
             <br />
             <p className='text-lg'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates eveniet, 
-                earum eius autem illum perspiciatis magni temporibus praesentium blanditiis, 
-                ipsam laborum veritatis sequi. Culpa libero possimus nesciunt vitae sequi 
-                necessitatibus voluptate quaerat veniam fugit maiores asperiores assumenda 
-                nisi illum corporis, similique est magni nobis aliquam corrupti, repudiandae 
-                perspiciatis repellendus ab.
+                As a MERN Stack Developer, I bring a focused skill set to the table, 
+                combining technical proficiency with a commitment to delivering impactful web solutions. 
+                My expertise in HTML, CSS, JavaScript, React.js, Express.js, Node.js, MongoDB, 
+                Tailwind CSS, and GitHub positions me as a valuable asset for any development 
+                team seeking to create cutting-edge web applications.
             </p>
         </div>
     </div>
