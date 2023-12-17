@@ -6,6 +6,7 @@ import About from "./portfolio/About";
 import Portfolio from "./portfolio/Portfolio";
 import Experiance from "./portfolio/Experiance";
 import Contact from "./portfolio/Contact";
+import Footer from "./portfolio/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Portfolio />
       <Experiance />
       <Contact />
+      <Footer />
 
       <SocialLinks />
     </>
